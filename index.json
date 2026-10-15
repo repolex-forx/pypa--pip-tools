@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "pip-tools",
+  "versions": [
+    {
+      "commit": "790ab56d1e1f5860808df41c8f25228ab36cd8a9",
+      "tag": "",
+      "parsed_at": "2026-10-15T15:46:09.005590+00:00"
+    }
+  ]
+}
