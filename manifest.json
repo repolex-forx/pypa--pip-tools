@@ -154,6 +154,9 @@
         "blob/532ad9d81987c00cf236543d64e10db1ccbb9f40.nq.gz",
         "blob/a1f84cd518fff3c647b1efca40ae2819c9e848e6.nq.gz",
         "blob/e3bd14ebb216a98888397c136aad543fec6ce441.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/790ab56d1e1f5860808df41c8f25228ab36cd8a9/chunk-001.nq.gz"
       ]
     }
   ],
